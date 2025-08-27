@@ -19,9 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PrimerDiaTheme {
-                //Abraham Asaf Jimenez Valerio gg
-                //2213080
-                //Desarrollo en aplicacion en android
+              //22130808
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
